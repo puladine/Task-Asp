@@ -21,4 +21,3 @@ app.UseCors();
 app.MapControllers();
 
 app.Run();
-//reza puladine
